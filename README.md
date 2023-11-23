@@ -15,11 +15,6 @@
 
 ### Налаштування середовища BehaviorSearch:
 
-**Обрана модель**:
-<pre>
-C:\Program Files\NetLogo 6.3.0\models\Sample Models\Biology\Virus.nlogo
-</pre>
-
 **Параметри моделі** (вкладка Model):  
 <pre>
 ["duration" [0 1 99]]
